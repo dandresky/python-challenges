@@ -1,0 +1,9 @@
+# IMPORTANT: 
+#
+# It is highly recommended to create a virtual Python environment
+# before installing these dependencies. See the project readme
+# file for more details.
+
+flask==3.0.0
+flask_executor==1.0.0
+watch==0.2.7
